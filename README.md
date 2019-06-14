@@ -1,2 +1,5 @@
-# SmartContractStudies
-Smart contract studies
+## Usage
+
+* Install EndNote
+* Double click this file
+
